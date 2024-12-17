@@ -12,29 +12,29 @@
  <p align="center">
 
   <a href="https://github.com/DAGAYA-MD/DAGAYA-MD-V1">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDAGAYA-MD%2FASITHA-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDAGAYA-MD%2FDAGAYA-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
   <a href="https://github.com/DAGAYA-MD/DAGAYA-MD-V1">
-    <img src="https://img.shields.io/github/forks/ASITHA-MD/ASITHA-MD-V2?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/DAGAYA-MD/DAGAYA-MD-V1?label=Fork&style=social">
     
   </a>
   <a href="https://github.com/DAGAYA-MD/DAGAYA-MD-V1">
-    <img src="https://img.shields.io/github/stars/DAGAYA-MD/DAGAYA-MD-V2?style=social">
+    <img src="https://img.shields.io/github/stars/DAGAYA-MD/DAGAYA-MD-V1?style=social">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/DAGAYA-MD/DAGAYA-MD-V1">
-    <img src="https://img.shields.io/github/repo-size/DAGAYA-MD/DAGAYA-MD-V2?color=purple&label=Repo%20Size&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/DAGAYA-MD/DAGAYA-MD-V1?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
   <a href="https://github.com/DAGAYA-MD/DAGAYA-MD-V1">
-    <img src="https://img.shields.io/github/license/DAGAYA-MD/DAGAYA-MD-V2?color=purple&label=License&style=plastic">
+    <img src="https://img.shields.io/github/license/DAGAYA-MD/DAGAYA-MD-V1?color=purple&label=License&style=plastic">
 
   </a>
   <a href="https://github.com/DAGAYA-MD/DAGAYA-MD-V1">
-    <img src="https://img.shields.io/github/languages/top/DAGAYA-MD/DAGAYA-MD-V2?color=purple&label=Javascript&style=plastic">
+    <img src="https://img.shields.io/github/languages/top/DAGAYA-MD/DAGAYA-MD-V1?color=purple&label=Javascript&style=plastic">
 
   </a>
   <a href="https://github.com/DAGAYA-MD/DAGAYA-MD-V1">
