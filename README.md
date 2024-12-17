@@ -20,21 +20,21 @@ b<div align="center">
     
   </a>
   <a href="https://github.com/DAGAYA-MD/DAGAYA-MD-V2">
-    <img src="https://img.shields.io/github/stars/ASITHA-MD/ASITHA-MD-V2?style=social">
+    <img src="https://img.shields.io/github/stars/DAGAYA-MD/DAGAYA-MD-V2?style=social">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/DAGAYA-MD/DAGAYA-MD-V2">
-    <img src="https://img.shields.io/github/repo-size/ASITHA-MD/ASITHA-MD-V2?color=purple&label=Repo%20Size&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/DAGAYA-MD/DAGAYA-MD-V2?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
   <a href="https://github.com/DAGAYA-MD/DAGAYA-MD-V2">
-    <img src="https://img.shields.io/github/license/ASITHA-MD/ASITHA-MD-V2?color=purple&label=License&style=plastic">
+    <img src="https://img.shields.io/github/license/DAGAYA-MD/DAGAYA-MD-V2?color=purple&label=License&style=plastic">
 
   </a>
   <a href="https://github.com/DAGAYA-MD/DAGAYA-MD-V2">
-    <img src="https://img.shields.io/github/languages/top/ASITHA-MD/ASITHA-MD-V2?color=purple&label=Javascript&style=plastic">
+    <img src="https://img.shields.io/github/languages/top/DAGAYA-MD/DAGAYA-MD-V2?color=purple&label=Javascript&style=plastic">
 
   </a>
   <a href="https://github.com/DAGAYA-MD/DAGAYA-MD-V2">
