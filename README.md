@@ -54,7 +54,7 @@
   _Github Account._<br><br>
      [![DAGAYA](https://img.shields.io/badge/HOW_TO_MAKE_GITHUB_ACCOUNT-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/NZ6oSZfoR88?si=A4ThxQppWddcYZYD)
 <br>
-<hr>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <b>CONTACT OWNER</b>
 
 [![DAGAYA](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94760419611)
@@ -72,7 +72,7 @@
    
 [![DAGAYA](https://img.shields.io/badge/dagaya_md_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
 
-<hr>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <b>COPY WORKFLOW CODE</b></br>
 ```
