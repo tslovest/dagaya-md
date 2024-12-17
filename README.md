@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://github.com/DAGAYA-MD/DAGAYA-MD-V1">
-    <img https://i.ibb.co/2W4twvC/7688.jpg"  width="700px">
+    <img src=https://i.ibb.co/2W4twvC/7688.jpg" 
 </a>
 <hr>
  <p align="center">
