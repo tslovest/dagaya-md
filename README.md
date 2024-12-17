@@ -6,7 +6,7 @@ b<div align="center">
 
 <p align="center">
 <a href="https://github.com/DAGAYA-MD/DAGAYA-MD-V2">
-    <img src=https://i.ibb.co/0GhKf6N/20241120-113020.jpg"  width="700px">
+    <img https://www.youtube.com/watch?v=LKbAoSebZuk"  width="700px">
 </a>
 <hr>
  <p align="center">
