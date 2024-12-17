@@ -38,7 +38,7 @@
 
   </a>
   <a href="https://github.com/DAGAYA-MD/DAGAYA-MD-V2">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Asitha%20Chathuranga&color=purple&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Author&message=dagaya%20Chathuranga&color=purple&style=plastic">
 
   </a>
   </p>
