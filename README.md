@@ -2,8 +2,7 @@
 
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=37&pause=1000&color=F722F2&width=435&lines=𝗕𝗢𝗧+ＤＡＧＡＹＡ+MD+V1)](https://git.io/typing-svg)
-
- height="90" width="100%">
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <p align="center">
 <a href="[https://github.com/tslovest/dagaya-md](https://github.com/tslovest/dagaya-md)">
