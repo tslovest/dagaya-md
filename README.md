@@ -15,25 +15,25 @@
   
   </a>
   <a href="https://github.com/tslovest/dagaya-md">
-    <img src="https://img.shields.io/github/forks/DAGAYA-MD/DAGAYA-MD-V1?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/tslovest/dagaya-md?label=Fork&style=social">
     
   </a>
   <a href="https://github.com/tslovest/dagaya-md">
-    <img src="https://img.shields.io/github/stars/DAGAYA-MD/DAGAYA-MD-V1?style=social">
+    <img src="https://img.shields.io/github/stars/tslovest/dagaya-md?style=social">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/tslovest/dagaya-md">
-    <img src="https://img.shields.io/github/repo-size/DAGAYA-MD/DAGAYA-MD-V1?color=purple&label=Repo%20Size&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/tslovest/dagaya-md?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
   <a href="https://github.com/tslovest/dagaya-md">
-    <img src="https://img.shields.io/github/license/DAGAYA-MD/DAGAYA-MD-V1?color=purple&label=License&style=plastic">
+    <img src="https://img.shields.io/github/license/tslovest/dagaya-md?color=purple&label=License&style=plastic">
 
   </a>
   <a href="https://github.com/tslovest/dagaya-md">
-    <img src="https://img.shields.io/github/languages/top/DAGAYA-MD/DAGAYA-MD-V1?color=purple&label=Javascript&style=plastic">
+    <img src="https://img.shields.io/github/languages/top/tslovest/dagaya-md?color=purple&label=Javascript&style=plastic">
 
   </a>
   <a href="https://github.com/tslovest/dagaya-md">
