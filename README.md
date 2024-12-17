@@ -1,43 +1,43 @@
 <div align="center">
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＤＡＧＡＹＡ+ＭＤ+V3+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＤＡＧＡＹＡ+ＭＤ+V1+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <p align="center">
-<a href="https://github.com/DAGAYA-MD/DAGAYA-MD-V2">
+<a href="https://github.com/DAGAYA-MD/DAGAYA-MD-V1">
     <img https://www.youtube.com/watch?v=LKbAoSebZuk"  width="700px">
 </a>
 <hr>
  <p align="center">
 
-  <a href="https://github.com/DAGAYA-MD/DAGAYA-MD-V2">
+  <a href="https://github.com/DAGAYA-MD/DAGAYA-MD-V1">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDAGAYA-MD%2FASITHA-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
-  <a href="https://github.com/DAGAYA-MD/DAGAYA-MD-V2">
+  <a href="https://github.com/DAGAYA-MD/DAGAYA-MD-V1">
     <img src="https://img.shields.io/github/forks/ASITHA-MD/ASITHA-MD-V2?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/DAGAYA-MD/DAGAYA-MD-V2">
+  <a href="https://github.com/DAGAYA-MD/DAGAYA-MD-V1">
     <img src="https://img.shields.io/github/stars/DAGAYA-MD/DAGAYA-MD-V2?style=social">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/DAGAYA-MD/DAGAYA-MD-V2">
+  <a href="https://github.com/DAGAYA-MD/DAGAYA-MD-V1">
     <img src="https://img.shields.io/github/repo-size/DAGAYA-MD/DAGAYA-MD-V2?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
-  <a href="https://github.com/DAGAYA-MD/DAGAYA-MD-V2">
+  <a href="https://github.com/DAGAYA-MD/DAGAYA-MD-V1">
     <img src="https://img.shields.io/github/license/DAGAYA-MD/DAGAYA-MD-V2?color=purple&label=License&style=plastic">
 
   </a>
-  <a href="https://github.com/DAGAYA-MD/DAGAYA-MD-V2">
+  <a href="https://github.com/DAGAYA-MD/DAGAYA-MD-V1">
     <img src="https://img.shields.io/github/languages/top/DAGAYA-MD/DAGAYA-MD-V2?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="https://github.com/DAGAYA-MD/DAGAYA-MD-V2">
+  <a href="https://github.com/DAGAYA-MD/DAGAYA-MD-V1">
     <img src="https://img.shields.io/static/v1?label=Author&message=dagaya%20Chathuranga&color=purple&style=plastic">
 
   </a>
@@ -68,7 +68,7 @@
 <b>DEPLOY</b>
 </br>
 </br>
- [![DAGAYA](https://img.shields.io/badge/dagaya_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/ASITHA-MD/ASITHA-MD-V2)
+ [![DAGAYA](https://img.shields.io/badge/dagaya_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/DAGAYA-MD/DAGAYA-MD-V1)
   
 [![DAGAYA](https://img.shields.io/badge/dagaya_md_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=queen-elisa)
    
