@@ -1,7 +1,7 @@
-b<div align="center">
+<div align="center">
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＤＡＧＡＹＡ+ＭＤ+V3+ＷＨ🧬ＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＤＡＧＡＹＡ+ＭＤ+V3+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <p align="center">
@@ -12,7 +12,7 @@ b<div align="center">
  <p align="center">
 
   <a href="https://github.com/DAGAYA-MD/DAGAYA-MD-V2">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FASITHA-MD%2FASITHA-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDAGAYA-MD%2FASITHA-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
   <a href="https://github.com/DAGAYA-MD/DAGAYA-MD-V2">
