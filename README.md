@@ -58,7 +58,7 @@
 <b>CONTACT OWNER</b>
 
 [![DAGAYA](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94760419611)
-<hr>
+<h😫r>
 
 
 <hr>
