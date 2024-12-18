@@ -6,7 +6,7 @@
  
 <p align="center">
 <a href="[https://github.com/tslovest/dagaya-md](https://github.com/tslovest/dagaya-md)">
-    <img src=https://i.ibb.co/2W4twvC/7688.jpg" 
+    <img src=https://i.ibb.co/CQ5KnZF/7907.jpg" 
 </a>
 <hr>
  <p align="center">
