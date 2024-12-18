@@ -1,12 +1,12 @@
 {
-  "name": "dagaya-MD",
+  "name": "dagaya-md",
   "version": "3.1.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name dagaya-MD",
-    "stop": "pm2 stop dagaya-MD",
-    "restart": "pm2 restart dagaya-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name dagaya-md",
+    "stop": "pm2 stop dagaya-md",
+    "restart": "pm2 restart dagaya-md"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "latest",
